@@ -52,3 +52,9 @@ $ npm Install
 # Install the dependencies, if use yarn
 $ yarn
 ```
+
+# Autor
+
+Gabriel Silva Souza
+
+https://www.linkedin.com/in/gabriel-silva-souza-developer
